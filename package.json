@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "KomMonitor_Geocoder_Proxy_that_defines_a_common_query_and_response_interface_for_arbitrary_geocoding_services_like_nominatim_photon__datasource_is_OSM",
   "license": "Apache 2.0",
+  "type": "module",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha --require @babel/register --recursive"
